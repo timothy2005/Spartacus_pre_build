@@ -1,5 +1,7 @@
 # This branch works fine in prebuilt mode with OLD file structure
-[<<Workaround for the Old Manifest Format>>]([url](https://sap.github.io/spartacus-docs/ssr-ccv2-issue-spartacus-version-2/#workaround-for-the-old-manifest-format))
+
+"Workaround for the Old Manifest Format"
+https://sap.github.io/spartacus-docs/ssr-ccv2-issue-spartacus-version-2/#workaround-for-the-old-manifest-format
 
 # SAP Commerce Cloud Sample Repository
 
